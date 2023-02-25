@@ -3,4 +3,4 @@ Codes of paper "Massive Connectivity Over MIMO-OFDM: Joint Activity Detection an
 
 The code should run in MATLAB 2019b or a newer version.
 
-Provider: Wenjun Jiang, University of Electronic Science and Technology of China.
+Wenjun Jiang, University of Electronic Science and Technology of China.
