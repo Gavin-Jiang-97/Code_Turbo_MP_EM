@@ -6,7 +6,7 @@ The main code is "Turbo_MP_EM.m". Please run this main code and obtain the chann
 The code should run in MATLAB 2019b or a newer version.
 
 ## Note
-You can cite us by
+You can cite this paper as
 
 @ARTICLE{9725260,
 
